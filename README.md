@@ -20,12 +20,12 @@ git clone https://github.com/AlanGervin/palindromeChecker.git
 
 cd palindromeChecker
 
-4. Install the requirements
+5. Install the requirements
 
 python -m pip install -r requirements.txt
 
-5. run pytest
+6. run pytest
 
-   pytest
+pytest
 
 All functions are located in palindromeChecker.py
